@@ -6,3 +6,4 @@ This exercise in plain HTML was somehwat very formative. I've already played aro
 I'm excited to dive into CSS, because the few projects I worked on aren't really beatiful, altough functional. 
 
 ## CSS practice part
+The CSS exercise was much more difficult than the HTML part. First of all, I was completely unexperienced with CSS. I also had a lot of issues with translating my creative vision to CSS styling. Altough the website isn't necessairly beautiful and perfectly tought of, I had fun making it and testing things out by myself.
