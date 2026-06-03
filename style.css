@@ -1,0 +1,43 @@
+*{
+    font-family: Helvetica, sans-serif;
+    background-color: darkolivegreen;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    size: 74px;
+    background-color: midnightblue;
+    color: burlywood;
+    padding: 25px;
+}
+
+h2 {
+    margin: 0 auto;
+    width: fit-content;
+    font-size: 30px;
+    padding:10px;
+    font-weight: 200;
+    border-bottom: 2px solid burlywood;
+}
+
+hr{
+    border-color:burlywood;
+}
+
+li{
+    text-align: center;
+    padding: 15px;
+}
+
+a:link, a:visited{
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+a:hover{
+    color:burlywood;
+}
